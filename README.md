@@ -2,7 +2,7 @@
 
 **Intelligent Identification of Hazard-Based Red Zones, Carrying Capacity Assessment, and Immediate Relocation Needs for Vulnerable Habitations**
 
-> **Problem Statement ID:** 26191 | **Organization:** Ministry of Home Affairs (NDRF/DM Division) | **Theme:** Disaster Management
+> **Problem Statement ID:** 26191 | **Organization:** Ministry of Home Affairs (NDRF/DM Division) | **Theme:** Disaster Management IN NE
 
 An AI-driven GIS platform that predicts hazard-based Red Zones across 7 North-Eastern Indian states, identifies safe Green Zones for relocation, assesses carrying capacity, and prioritizes 44,000+ vulnerable villages for immediate action.
 
