@@ -1,6 +1,6 @@
 # 🚨 NE India Hazard Red Zone Platform
 
-**Intelligent Identification of Hazard-Based Red Zones, Carrying Capacity Assessment, and Immediate Relocation Needs for Vulnerable Habitations**
+**Intelligent Identification of Hazard-Based Red Zones, Carrying Capacity Assessment, and Immediate Relocation Needs for Vulnerable Habitations in North Eastern Region**
 
 > **Problem Statement ID:** 26191 | **Organization:** Ministry of Home Affairs (NDRF/DM Division) | **Theme:** Disaster Management IN NE
 
